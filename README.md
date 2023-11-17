@@ -1,16 +1,52 @@
-<h1 align="center">Hi 👋, I'm Save</h1>
-<h3 align="center">This Design from AsmrProg</h3>
+<h3 align="center">
+    <img src="assets/marketing/github_logo.png" alt="LT5 Icon" width="192" />
+    <br />
+    Create CO
+</h3>
 
-- 🔭 I’m currently working on **My Company**
-
-- 👨‍💻 All of my projects are available at [https://twitter.com/savedev1_](https://twitter.com/savedev1_)
-
-- ⚡ Fun fact **lOL :D**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/savedev1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savedev1_" height="30" width="40" /></a>
+<p align="center">
+    A casual game with a soothing Catppuccin color palette 🎨
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" alt="Catppuccin Palette" width="400" />
+</p>
+
+<div align="center">
+
+[![Join Game](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgames.roblox.com%2Fv1%2Fgames%3FuniverseIds%3D3250486725&query=%24.data.0.visits&style=for-the-badge&logo=roblox&logoColor=d9e0ee&label=plays&labelColor=302d41&color=aee8d6&cacheSeconds=1
+)](https://www.roblox.com/games/14162747150)
+[![Join Test Place](https://img.shields.io/badge/test-canary-f0c6c6?style=for-the-badge&logo=devdotto&logoColor=d9e0ee&labelColor=302d41)](https://www.roblox.com/games/8515178345)
+[![Discord](https://img.shields.io/discord/1062844485282836522?style=for-the-badge&logo=discord&logoColor=d9e0ee&label=chat&labelColor=302d41&color=b7bdf8)](https://discord.gg/tyjBaP44sK)
+[![Join Group](https://img.shields.io/badge/group-create_co-c7aee8?style=for-the-badge&logo=roblox&logoColor=d9e0ee&labelColor=302d41)](https://www.roblox.com/groups/33392370)
+
+</div>
+
+&nbsp;
+
+## ❤️ Gratitude
+
+This project is based on and heavily inspired by:
+
+-   🎨 [Catppuccin](https://catppuccin.com): A community-driven pastel color palette
+-   🎧 [kenney.nl](https://kenney.nl): Thousands of free game assets
+-   😜 [Microsoft Fluent Emoji](https://github.com/microsoft/fluentui-emoji): A collection of emoji, used in badges
+
+## 🧑‍💻 Contributors
+
+Special thanks to these contributors for making this possible:
+
+-   [@Inversion](https://github.com/neoinversion) for making awesome pull requests
+-   [@pashleyy](https://github.com/passhley) for the concept
+
+---
+
+<p align="center">
+Slither is released under the <a href="LICENSE.md">MIT License</a>.
+</p>
+
+<div align="center">
+
+[![MIT License](https://img.shields.io/badge/license-mit-f4dbd6?style=for-the-badge&labelColor=302d41)](LICENSE.md)
+
+</div>
