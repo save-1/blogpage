@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="assets/marketing/github_logo.png" alt="LT5 Icon" width="192" />
+    <img src="Png.png" alt="LT5 Icon" width="192" />
     <br />
     Create CO
 </h3>
